@@ -117,7 +117,7 @@ systemctl start pve-dcui.service
 
 ## 📸 截图
 
-![主界面](screenshots/main_ui.png)
+![主界面](screenshots/dcui.png)
 
 ## 📄 许可证 (License)
 
